@@ -11,3 +11,4 @@
 # PG-crypto-payment-gateway-backend
 # PG-crypto-payment-gateway-backend
 # PG-crypto-payment-gateway-user
+# pg-exchange-admin
